@@ -14,13 +14,13 @@ The **Crypto Fear Calculator Widget** is an intuitive tool for websites, helping
 
 See how easy it is to customize the widget to match your website's theme.
 
-![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widget/blob/main/Customisze.gif)
+![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widget/blob/main/customize.gif)
 
 ### 2. Copy to your website:
 
 Copying the code to your website is straightforward!
 
-![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widget/blob/main/Copy.gif)
+![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widget/blob/main/copy.gif)
 
 ### 3. Installation:
 1. Copy the example provided below.
