@@ -20,7 +20,7 @@ See how easy it is to customize the widget to match your website's theme.
 
 Copying the code to your website is straightforward!
 
-![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widgetblob/main/Copy.gif)
+![](https://github.com/PlasBit/Crypto-Fear-Calculator-Widget/blob/main/Copy.gif)
 
 ### 3. Installation:
 1. Copy the example provided below.
