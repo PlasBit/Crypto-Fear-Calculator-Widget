@@ -1,6 +1,6 @@
 # Crypto Fear Calculator Widget 🌡️
 
-The Crypto Fear Calculator Widget is an intuitive tool for websites, helping users gauge the current sentiment in the cryptocurrency market. Based on various indicators, it gives an insight into whether the market is driven by fear or greed.
+The **Crypto Fear Calculator Widget** is an intuitive tool for websites, helping users gauge the current sentiment in the cryptocurrency market. Based on various indicators, it gives an insight into whether the market is driven by fear or greed.
 
 - 🚀 **Features**: Analyze market sentiment using multiple data sources and provide a "Fear" or "Greed" score to guide investment decisions.
 - 💸 **Cost**: Absolutely FREE!
@@ -30,7 +30,7 @@ Copying the code to your website is straightforward!
 ### Code Snippet:
 
 ```html
-<!-- Crypto Calculator Widget -->
+<!--Crypto Fear Calculator Widget-->
 <div id="crypto_fear_calc" data-coins="" data-cards="" data-rss=""
     data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
     data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
